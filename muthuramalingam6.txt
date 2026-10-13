@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.print("Name\t: Arun\n");
+        System.out.print("Course\t: Java\n");
+        System.out.print("Level\t: Beginner\n");
+    }
+}

@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("College Name: DSEC College");
+        System.out.println("Department: AI&DS");
+        System.out.println("Course:java");
+    }
+}

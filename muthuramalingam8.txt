@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+        int population = 8000000;
+        double productPrice = 1499.95;
+        char bloodGroupSymbol = 'A';
+        boolean accountVerified = true;
+        String employeeName = "Kavin";
+
+        System.out.println("Population: " + population);
+        System.out.println("Product Price: " + productPrice);
+        System.out.println("Blood Group Symbol: " + bloodGroupSymbol);
+        System.out.println("Account Verified: " + accountVerified);
+        System.out.println("Employee Name: " + employeeName);
+    }
+}
