@@ -1,0 +1,12 @@
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+    String spotify type = sc.nextLine();
+    if(usertype.equals("student")){
+        ystem.out.println("Subscrition cost:Rs.399");
+    }else{
+        system.out.println("Other people  cost:Rs.500");
+    }
+    }
+}

@@ -1,0 +1,11 @@
+mport java.util.*;
+public class  Main{
+    public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+    double balance = sc.nextDouble();
+    if (balance<1000){
+    System.out.println("low balance alert");
+    }
+    System.out.println("");
+    }
+}

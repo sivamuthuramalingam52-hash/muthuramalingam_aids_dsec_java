@@ -1,0 +1,17 @@
+import java.util.*;
+public class Main{
+    public static void main(String[]args){
+    Scanner sc = new Scanner(System.in);
+    double data = sc.nextDouble();
+
+    if (data < 0){
+        System.out.println("Involid input");
+    }else if (data <= 1){
+        System.out.println("light usage");
+    }else if (data <= 3){
+        System.out.println("moderate usage");
+    }else{
+        System.out.println("heavy usage");
+    }
+    }
+}

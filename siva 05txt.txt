@@ -1,0 +1,14 @@
+import java.util.*;
+public class  Main{
+    public static void main(String[]args){
+    Scanner  sc = new Scanner(System.in);
+    int temperature = sc.nextInt();
+    if (temperature>30){
+    System.out.println("warm day");
+    }
+    else{
+    System.out.println("cool day");
+    }
+    }
+}
+
